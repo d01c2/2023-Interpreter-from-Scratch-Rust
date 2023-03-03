@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/79785117/222885154-f8bdbeb3-f66e-48b7-95c3-15eaabfd3676.png" width="150">
 </p>
 
-2023-Interpreter-from-Scratch-Rust is the repository for assignments of Interpreter Course. This course is conducted by [utilForever](https://github.com/utilForever) and is a project in Matkor, Math Programming Club at Korea University CYDF. Note that examples and assignments in this repository uses [Rust language](https://www.rust-lang.org/).
+2023-Interpreter-from-Scratch-Rust is the repository for assignments of Interpreter Course. This course is conducted by [utilForever](https://github.com/utilForever) and is a [project](https://github.com/utilForever/2023-MatKor-Rust-Interpreter) in Matkor, Math Programming Club at Korea University CYDF. Note that examples and assignments in this repository uses [Rust language](https://www.rust-lang.org/).
 
 ## Book
 
