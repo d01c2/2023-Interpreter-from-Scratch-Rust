@@ -5,12 +5,7 @@
 ## Book
 
 - English: Writing An Interpreter In Go (Thorsten Ball, 2018)
-
-![](https://interpreterbook.com/img/sm_card-03b4fb28.png)
-
 - Korean: 밑바닥부터 만드는 인터프리터 (인사이트, 2021)
-
-![](https://insightbookblog.files.wordpress.com/2021/08/ec9db8ed84b0ed9484eba6aced8bb0-ed919ceca780ec9e85ecb2b4.jpg?w=408)
 
 ## Optional Readings
 
@@ -18,8 +13,6 @@
 - Build Your Own Programming Language (Packt Publishing, 2021)
 - Engineering: A Compiler (Morgan Kaufmann, 2011)
 - Compilers: Principles, Techniques, and Tools (Addison Wesley, 2006)
-
-## Contents
 
 ## Schedule (Tentative)
 |Weeks|Day|Topics|Assignments|
